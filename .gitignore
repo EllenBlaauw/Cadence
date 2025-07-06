@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env/
+.env
+
+# Database
+*.db
+*.sqlite
+journal.db
+
+# Streamlit
+.streamlit/cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Local development
+*.local
+
+# Environment files
+.env
+secrets.toml
+
+# Logs and diagnostics
+*.log
+*.sql
+*.sqlite*
+.cache/
+
+# Testing
+coverage.xml
+.coverage
+htmlcov/
+
+# Project Documentation
+Project_brief.md
+Project_improvement.md
+presentation.md
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
